@@ -1,6 +1,7 @@
-![Logo pling](https://github.com/MrrMiloa/ZenithX-Apollo/assets/119014113/c7906976-9661-4e15-a892-68d3a46b5a2f)
-### ZenithX - Apollo 
 
+ ![Apollo github](https://github.com/MrrMiloa/ZenithX-Apollo/assets/119014113/41b26258-ddf2-4d8b-9647-31eb972dd33d)
+
+### ZenithX - Apollo
 ### Steps for install
 - Flash rom
 - Format data
